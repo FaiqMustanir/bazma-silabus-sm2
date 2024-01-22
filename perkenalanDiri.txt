@@ -1,1 +1,4 @@
 Perkenalkan nama saya adalah Faiq, saya adalah siswa SMK TI BAZMA yang sedang mempelajari materi github
+
+
+Ini data di ubah di Visual Studio Code Kita
